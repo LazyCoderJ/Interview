@@ -1,0 +1,5 @@
+This page contains problem name and Link
+| Problem Name                    | File Name              | Link                                                                          | Description                                   |   |
+|---------------------------------+------------------------+-------------------------------------------------------------------------------+-----------------------------------------------+---|
+| First and last occurrences of X | LastAndFirstX.py       | https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0 | First and Last occurence of X in sorted Array |   |
+| Find the Highest number         | FindGreatestRotated.py | https://practice.geeksforgeeks.org/problems/find-the-highest-number/0         | Find the highest element in a roated sorted list |   |
